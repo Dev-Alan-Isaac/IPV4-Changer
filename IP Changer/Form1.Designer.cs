@@ -103,7 +103,7 @@
             groupBox3.Size = new Size(332, 174);
             groupBox3.TabIndex = 3;
             groupBox3.TabStop = false;
-            groupBox3.Text = "Redes";
+            groupBox3.Text = "Direccionamiento";
             // 
             // textBox_Gateway
             // 
@@ -176,6 +176,7 @@
             button_Revert.TabIndex = 5;
             button_Revert.Text = "Revertir";
             button_Revert.UseVisualStyleBackColor = true;
+            button_Revert.Click += button_Revert_Click;
             // 
             // Form1
             // 
