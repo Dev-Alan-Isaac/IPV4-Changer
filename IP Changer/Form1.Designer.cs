@@ -190,7 +190,7 @@
             FormBorderStyle = FormBorderStyle.FixedToolWindow;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Form1";
+            Text = "IPV4 Changer";
             Load += Form1_Load;
             groupBox1.ResumeLayout(false);
             groupBox2.ResumeLayout(false);
